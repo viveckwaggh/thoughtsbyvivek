@@ -20,7 +20,7 @@ export const Footer = () => {
   return (
     <Container>
       <ButtonLink
-        href="https://mobile.twitter.com/lewislbr"
+        href="https://twitter.com/ThoughtsByVivek"
         target="_blank"
         rel="noopener noreferrer"
       >
