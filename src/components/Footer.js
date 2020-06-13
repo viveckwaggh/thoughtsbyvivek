@@ -27,11 +27,18 @@ export const Footer = () => {
         Twitter
       </ButtonLink>
       <ButtonLink
-        href="https://github.com/lewislbr/lewis-gatsby-starter-blog"
+        href="https://www.instagram.com/thoughts_by_vivek/"
         target="_blank"
         rel="noopener noreferrer"
       >
-        Github
+        Instagram
+      </ButtonLink>
+      <ButtonLink
+        href="https://www.facebook.com/thoughtsbyvivek"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Facebook
       </ButtonLink>
     </Container>
   );
