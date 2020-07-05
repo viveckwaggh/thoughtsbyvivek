@@ -4,6 +4,7 @@ import styled from 'styled-components';
 
 import { FixedBar } from '../components';
 import { BREAKPOINT } from '../utils/constants';
+// import Logo from '../assets/logo/website.png'
 
 const HeaderWrapper = styled(FixedBar)`
   justify-content: space-between;
