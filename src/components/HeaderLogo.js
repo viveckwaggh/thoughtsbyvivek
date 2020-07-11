@@ -27,5 +27,6 @@ export const HeaderLogo = () => {
         <p>About</p>
       </Link>
     </HeaderWrapper>
+    
   );
 };
